@@ -11,7 +11,7 @@ https://github.com/elFarto/nvidia-vaapi-driver - firefox
 
 # Nvidia settings startup <br>
 1) Run nvidia-settings and customize (this writes ~/.nvidia-settings-rc <br>
-2) Create ~/.config/autostart/nvidia.desktop that contains the following: <br>
+2) Create ~/.config/autostart/nvidia.desktop that contains the following: <br> <br>
 [Desktop Entry] <br>
 Type=Application <br>
 Exec=nvidia-settings -l <br>
