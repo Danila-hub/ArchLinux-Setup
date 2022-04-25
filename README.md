@@ -1,6 +1,6 @@
 # ArchLinux-Setup
 
-# Nedeed fonts: <br>
+## Nedeed fonts: <br>
 
 noto-fonts noto-fonts-cjk noto-fonts-emoji nerd-fonts-fira-code
 
