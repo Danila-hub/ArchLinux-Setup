@@ -1,4 +1,4 @@
-# ArchLinux-Setup
+## ArchLinux-Setup
 
 ## Nedeed fonts: <br>
 
